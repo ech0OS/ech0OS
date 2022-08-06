@@ -9,7 +9,7 @@
   <img align="center" alt="Rafa-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="right" alt="victor-pic" height="150" style="border-radius:50px;" 
-src="https://picrew.me/shareImg/org/202208/58190_eN1pO9de.png">
+src="https://cdn.discordapp.com/attachments/1005270151089893507/1005594142275026954/1659822714011.png">
 
 ![Snake animation](https://github.com/DevVictor37/DevVictor37/blob/output/github-contribution-grid-snake.svg)
 
