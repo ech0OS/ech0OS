@@ -3,9 +3,6 @@
 <img height=200px src="https://i.pinimg.com/originals/b2/ff/d9/b2ffd9de76ce9385a2577daad6505575.gif"></br>
 
 <div align=center>
-  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+there!+I'm+Victor.;Great+to+see+you+here.+%F0%9F%98%89" alt="Typing SVG" /></a>
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Daynlight/Daynlight/blob/output/github-contribution-grid-snake-dark.svg" />
